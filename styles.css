@@ -1,0 +1,22 @@
+* { outline: dotted 1px green; }
+
+header {
+  color: white;
+    background-color: skyblue;
+    border-width: 20px;
+    border-color: yellow;
+    border-style: solid;
+
+}
+header a {
+  color: white;
+}
+a{
+  #76d3a5
+}
+.color-magenta {
+  color: magenta;
+}
+body {
+  color: black
+}
